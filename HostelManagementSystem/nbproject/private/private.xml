@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/index.html</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/addRoom.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/bookRoom.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/cancelBooking.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/cancelBookingResult.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/confirmBooking.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/confirmCancellation.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/confirmDeleteUser.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/deleteRoom.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/confirmRoomDeletion.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/deleteUser.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/index.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/login.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/logout.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/register.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/registerUser.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/updateRoomAction.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewAvailableRooms.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewBookings.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewMyBookings.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewRooms.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewRoomsForDeletion.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewRoomsForUpdate.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/viewUsers.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/web/welcome.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/src/java/GenerateReportServlet.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/src/java/GenerateRoomReportServlet.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/src/java/GenerateRoomsReportServlet.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documents/NetBeansProjects/HostelManagementSystem/src/java/GenerateUserReportServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
